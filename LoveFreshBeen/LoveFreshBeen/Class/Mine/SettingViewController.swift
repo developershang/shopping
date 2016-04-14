@@ -50,7 +50,7 @@ class SettingViewController: BaseViewController {
         aboutMeView.addGestureRecognizer(tap)
         
         let aboutLabel = UILabel(frame: CGRectMake(20, 0, 200, subViewHeight))
-        aboutLabel.text = "关于小熊"
+        aboutLabel.text = "关于shang"
         aboutLabel.font = UIFont.systemFontOfSize(16)
         aboutMeView.addSubview(aboutLabel)
         

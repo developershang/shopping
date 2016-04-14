@@ -78,6 +78,7 @@ class ShareManager: NSObject {
             })
             
             
+            
             break
         }
     }
