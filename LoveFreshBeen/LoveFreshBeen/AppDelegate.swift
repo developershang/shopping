@@ -27,8 +27,8 @@
 //
 //
 
-import UIKit
-
+import UIKit 
+// 注释说明
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
